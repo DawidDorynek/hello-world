@@ -1,6 +1,7 @@
 en:
 	accepted: “Accepted”
 	rejected: “Rejected”
+	none: "None"
 	record:
 		user:
 			email: email
