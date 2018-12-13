@@ -1,4 +1,8 @@
 en:
-        accepted: “Accepted”
-        rejected: “Rejected”
-        none: "None"
+ accepted: “Accepted”
+ rejected: “Rejected”
+ none: "None"
+  user:
+   email: email
+   address: address
+   password: password
