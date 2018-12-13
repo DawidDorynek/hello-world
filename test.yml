@@ -2,7 +2,6 @@ en:
         accepted: “Accepted”
         rejected: “Rejected”
         none: "None"
-                record:
-                        user:
+                user:
                         email: email
                         password: password
